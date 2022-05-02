@@ -1,7 +1,8 @@
 import 'dart:async';
 
+import 'package:tictactoe/repositories/ai/utils.dart';
+
 import '../../repositories/repositories.dart';
-import 'package:tictactoe/ai/Utils.dart';
 
 class GamePresenter {
   // callbacks into our UI
